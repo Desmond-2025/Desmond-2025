@@ -1,7 +1,7 @@
 [![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://desmond-2025.github.io/)
 <h1 align="center">Hi 👋, I'm Desmond Nebah</h1>
 <h3 align="center">I am a passionate tech enthusiast and computer science student</h3>
-<img align="right" alt="Coding" width="400" src="https://images.search.yahoo.com/images/view;_ylt=AwrNYOQHMT5kqso8himJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzYwZGYyMTE2NTc3MzVjNjYxZWFjOTAxNzk0ZThlYThmBGdwb3MDMTQxBGl0A2Jpbmc-?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DProgrammer%2BAnimated%2BGIF%26type%3DE211US105G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Ars-algo-rel%26nost%3D1%26tab%3Dorganic%26ri%3D141&w=380&h=277&imgurl=i.gifer.com%2Forigin%2Fdc%2Fdc954e7849d9c76c3544faf880b55be5.gif&rurl=https%3A%2F%2Fgifer.com%2Fru%2Fgifs%2Fprogrammers&size=717.6KB&p=Programmer+Animated+GIF&oid=60df211657735c661eac901794e8ea8f&fr2=p%3As%2Cv%3Ai%2Cm%3Ars-algo-rel&fr=mcafee&tt=Programmers+%D0%B3%D0%B8%D1%84%D0%BA%D0%B8%2C+%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5+GIF+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+programmers+-+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+...&b=121&ni=160&no=141&ts=&tab=organic&sigr=_VfLARWKkwpT&sigb=3WFY3ty_gPmG&sigi=8dh9Ti0E9q7x&sigt=jZZR23XrDr3V&.crumb=SAYM0.fH2Hs&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Ars-algo-rel&type=E211US105G0">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 - 🌱 I’m currently learning **app development, and AI**
 
