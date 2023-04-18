@@ -1,16 +1,27 @@
-### Hi there 👋
+[![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://desmond-2025.github.io/)
+<h1 align="center">Hi 👋, I'm Desmond Nebah</h1>
+<h3 align="center">I am a passionate tech enthusiast and computer science student</h3>
+<img align="right" alt="Coding" width="400" src="https://images.search.yahoo.com/images/view;_ylt=AwrNYOQHMT5kqso8himJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzYwZGYyMTE2NTc3MzVjNjYxZWFjOTAxNzk0ZThlYThmBGdwb3MDMTQxBGl0A2Jpbmc-?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DProgrammer%2BAnimated%2BGIF%26type%3DE211US105G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Ars-algo-rel%26nost%3D1%26tab%3Dorganic%26ri%3D141&w=380&h=277&imgurl=i.gifer.com%2Forigin%2Fdc%2Fdc954e7849d9c76c3544faf880b55be5.gif&rurl=https%3A%2F%2Fgifer.com%2Fru%2Fgifs%2Fprogrammers&size=717.6KB&p=Programmer+Animated+GIF&oid=60df211657735c661eac901794e8ea8f&fr2=p%3As%2Cv%3Ai%2Cm%3Ars-algo-rel&fr=mcafee&tt=Programmers+%D0%B3%D0%B8%D1%84%D0%BA%D0%B8%2C+%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5+GIF+%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+programmers+-+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+...&b=121&ni=160&no=141&ts=&tab=organic&sigr=_VfLARWKkwpT&sigb=3WFY3ty_gPmG&sigi=8dh9Ti0E9q7x&sigt=jZZR23XrDr3V&.crumb=SAYM0.fH2Hs&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Ars-algo-rel&type=E211US105G0">
 
-<!--
-**Desmond-2025/Desmond-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **app development, and AI**
 
-Here are some ideas to get you started:
+- 👨‍💻 You can find my personal portfolio at [https://desmond-2025.github.io/](https://desmond-2025.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **react, flutter and dart**
+
+- 📫 How to reach me **nebahdesmondfongwa@gmail.com**
+
+- ⚡ Fun fact **I am a fraternal twin**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/desmondnebah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/desmondnebah" height="30" width="40" /></a>
+<a href="https://instagram.com/d.e.z.o___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.e.z.o___" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desmond-2025&show_icons=true&locale=en&layout=compact" alt="desmond-2025" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desmond-2025&show_icons=true&locale=en" alt="desmond-2025" /></p>
