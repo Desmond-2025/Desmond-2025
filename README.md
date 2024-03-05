@@ -7,7 +7,7 @@
 
 - 👨‍💻 You can find my personal portfolio at [https://desmond-2025.github.io/](https://desmond-2025.github.io/)
 
-- 💬 Ask me about **react, flutter and dart**
+- 💬 Ask me about **soccer or djing**
 
 - 📫 How to reach me **nebahdesmondfongwa@gmail.com**
 
